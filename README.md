@@ -19,3 +19,12 @@ Operational Intelligence Orchestrator is a backend platform designed to unify di
 ## Architecture
 
 The platform follows a modular, event-driven architecture where independent services communicate through APIs and asynchronous workflows. This approach improves scalability, resilience, maintainability, and enables seamless integration with enterprise systems.
+
+
+## Technology Stack
+
+* Languages: Python, Rust
+* Architecture: Event-Driven, Distributed Systems, Microservices
+* Communication: REST APIs, JSON
+* Automation: Workflow Orchestration
+* Monitoring: Logging, Health Checks, Observability
