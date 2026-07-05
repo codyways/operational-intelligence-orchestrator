@@ -28,3 +28,12 @@ The platform follows a modular, event-driven architecture where independent serv
 * Communication: REST APIs, JSON
 * Automation: Workflow Orchestration
 * Monitoring: Logging, Health Checks, Observability
+
+
+## Engineering Principles
+
+* Design for scalability, reliability, and long-term maintainability.
+* Build modular systems with clear separation of concerns.
+* Apply event-driven architecture to support resilient distributed workflows.
+* Prioritize operational visibility through monitoring and observability.
+* Engineer solutions that deliver measurable business value.
