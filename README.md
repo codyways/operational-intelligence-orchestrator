@@ -14,3 +14,8 @@ Operational Intelligence Orchestrator is a backend platform designed to unify di
 * Unifies disconnected systems through centralized orchestration.
 * Improves operational visibility and execution consistency.
 * Reduces manual effort while enabling scalable business operations.
+
+
+## Architecture
+
+The platform follows a modular, event-driven architecture where independent services communicate through APIs and asynchronous workflows. This approach improves scalability, resilience, maintainability, and enables seamless integration with enterprise systems.
